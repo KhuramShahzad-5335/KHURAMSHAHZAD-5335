@@ -1,5 +1,15 @@
 # Hi, I'm Khuram Shahzad 👋
 
+<details>
+<!-- <summary>GitHub activity & repository languages</summary> -->
+<!-- These cards are supplied by an external service; availability can vary. -->
+
+![Khuram's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhuramShahzad-5335&show_icons=true&theme=github_dark&hide_border=true)
+
+![Repository languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhuramShahzad-5335&layout=compact&theme=github_dark&hide_border=true)
+
+</details>
+
 ### Thoughtful code. Useful things. A little personality.
 
 I'm a self-employed software developer based in **Lahore, Pakistan**. I build responsive web interfaces, backend services, and API integrations, with a soft spot for the details that make software feel good to use.
@@ -55,17 +65,6 @@ I also keep smaller experiments around to explore [React concepts](https://githu
 Have a website, an application, or an interesting technical problem in mind? I'd love to hear about it. Developer conversations and very good programming jokes are welcome too.
 
 [**Portfolio**](https://khuram-one.vercel.app/) · [**Email**](mailto:krshahzad7@gmail.com) · [**LinkedIn**](https://www.linkedin.com/in/khuram-shahzad-0814b1230/) · [**WhatsApp**](https://wa.me/923471713760)
-
-<details>
-<summary>GitHub activity & repository languages</summary>
-
-<!-- These cards are supplied by an external service; availability can vary. -->
-
-![Khuram's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhuramShahzad-5335&show_icons=true&theme=github_dark&hide_border=true)
-
-![Repository languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhuramShahzad-5335&layout=compact&theme=github_dark&hide_border=true)
-
-</details>
 
 ---
 
