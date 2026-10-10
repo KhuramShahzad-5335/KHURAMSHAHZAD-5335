@@ -48,18 +48,6 @@ I care about clear navigation, practical software, and a button that feels right
 | Testing & delivery | Jest, Testing Library, Git, GitHub Actions, Vercel |
 | Everyday tools | VS Code, CodePen, StackBlitz, Replit |
 
-## A few things I've worked on
-
-| Project | What it's about | Explore |
-| --- | --- | --- |
-| **Personal portfolio** | A static Next.js site with project stories, a blog, editable themes, motion, and interactive 3D. | [Live site](https://khuram-one.vercel.app/) · [Code](https://github.com/KhuramShahzad-5335/khuram) |
-| **Qurancademy** | A web presence for a Quran academy, using Next.js, TypeScript, Tailwind CSS, and Framer Motion. | [Live site](https://qurancademy.vercel.app/) · [Code](https://github.com/KhuramShahzad-5335/qurancademy) |
-| **Hashtag Web Portfolio** | An agency portfolio built with React, Vite, Redux Toolkit, and Framer Motion. | [Live site](https://hashtag-web-portfolio.vercel.app/) · [Code](https://github.com/KhuramShahzad-5335/HashTag-Web-Portfolio) |
-| **NFC Attendance Frontend** | My frontend work on a university attendance-tracking project. The linked repository is a fork. | [Live site](https://nfc-attendance-frontend.vercel.app/) · [Code](https://github.com/KhuramShahzad-5335/NFC-student-portal-frontend) |
-| **AI Document Generator** | A university project I co-developed with Python, Flask, and the OpenAI API. | [Project overview](https://khuram-one.vercel.app/projects/ai-document-generator/) |
-
-I also keep smaller experiments around to explore [React concepts](https://github.com/KhuramShahzad-5335/advanced-react-concepts), [color palettes](https://github.com/KhuramShahzad-5335/Random-Colors_Ex-L3), and [interface interactions](https://github.com/KhuramShahzad-5335/EXPANDING-CARDS-_HCJ).
-
 ## Let's build something
 
 Have a website, an application, or an interesting technical problem in mind? I'd love to hear about it. Developer conversations and very good programming jokes are welcome too.
