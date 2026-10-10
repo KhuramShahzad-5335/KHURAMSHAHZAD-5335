@@ -1,6 +1,6 @@
 # Hi, I'm Khuram Shahzad 👋
 
-<details>
+<!-- <details> -->
 <!-- <summary>GitHub activity & repository languages</summary> -->
 <!-- These cards are supplied by an external service; availability can vary. -->
 
@@ -8,7 +8,7 @@
 
 ![Repository languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhuramShahzad-5335&layout=compact&theme=github_dark&hide_border=true)
 
-</details>
+<!-- </details> -->
 
 ### Thoughtful code. Useful things. A little personality.
 
